@@ -1,0 +1,11 @@
+Read Me
+
+How to run Program [Quick Sort]
+
+1. First it will ask the user to enter the number of elements he/she wants to sort.
+2. User need to enter the numeber of elemnts.
+3. it will ask you to enter the elements one by one and it will create an array which will be sorted using quick sort.
+4. It will print the sorted array for user.
+5. Your array is sorted.
+
+
